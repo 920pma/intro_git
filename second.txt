@@ -1,5 +1,0 @@
-15.色々な変更をコミットしよう
-
-Second.txt作成
-ステージングエリア（インデックス）へ追加  --＞  git add second.txt
-Git commit -v
